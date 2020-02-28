@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">twitterSearch</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="missingMessage">Query and Tag cannot be Empty</string>
+    <string name="searchURL">http://mobile.twitter.com/search</string>
+    <string name="content">content</string>
+    <string name="tag">tag</string>
+    <string-array name="dialog_items">
+        <item>Share</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
